@@ -2,11 +2,11 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Selfown - Responsive Personal page</title>
+  <title>portfolio</title>
 
 
   <!-- favicon -->
-  <link rel="shortcut icon" href="<?= base_url('assets/') ?>images/favicon.ico">
+  <link rel="shortcut icon" href="<?= base_url('assets/') ?>images/t.webp">
 
   <!-- css -->
   <link href="<?= base_url('assets/') ?>css/bootstrap.min.css" rel="stylesheet" type="text/css">
